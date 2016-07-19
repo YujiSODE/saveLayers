@@ -83,7 +83,7 @@ function saveLayers(){
   fm=f('form',fmId,divId);
   //=== </div and form> ===
   //====== <list of canvas/img tag> ======
-  slctLb=f('label',slcId+'label',fmId),slctLb.innerHTML='Target canvas tag:';
+  slctLb=f('label',slcId+'label',fmId),slctLb.innerHTML='Target tag:';
   slct=f('select',slcId,slctLb.id),slct.multiple=true;
   //Tgs is the current canvas/img tags.
   Tgs=tAr(['canvas','img']),L=Tgs.length;
