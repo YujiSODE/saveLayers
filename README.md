@@ -7,11 +7,11 @@ https://github.com/YujiSODE/saveLayers
 >See LICENSE.txt or http://opensource.org/licenses/mit-license.php
 ______
 
-##Script
+## Script
 * saveLayers.js
 
 
-##How to use
+## How to use
 * call "saveLayers()".
 
 1. __Selecting some target images__  
